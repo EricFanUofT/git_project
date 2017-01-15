@@ -1,3 +1,8 @@
 This is on branch cat only.
 More to the cat branch!
+<<<<<<< HEAD
 Will this change 2 show?
+=======
+Which change will be effective?
+
+>>>>>>> 24e67b48e4462ee2a8a2ada0bc3164cfa1ca0ce3
